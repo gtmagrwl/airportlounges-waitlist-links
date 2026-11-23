@@ -723,7 +723,7 @@
     "notes": "Alaska Lounge. Digital Waitwhile queue when the lounge is at capacity.",
     "last_verified": "2026-08-27"
   },
-  {
+ {
     "id": "lgw-tn-no1-lounge",
     "airport_code": "LGW",
     "airport_name": "London Gatwick Airport",
@@ -732,10 +732,11 @@
     "terminal": "North Terminal, straight ahead in the lounge pavilion",
     "lounge_name": "No1 Lounge (North Terminal)",
     "network": "Aspire",
+    "waitlist_url": "https://waitwhile.com/locations/lgwn1?qr=true",
     "booking_url": "https://www.aspirelounges.com/airport-lounges/london-gatwick-airport-north-terminal-no1-lounge/",
     "booking_cost": "cash",
-    "notes": "Operator's own lounge page with a Book this lounge form. Open to all passengers; Priority Pass, DragonPass and Dreamfolks accepted at most locations - check the page for this lounge. Priority Pass, DragonPass and Dreamfolks holders can pre-book against a membership credit instead, and pay the walk-up price only if short of credits on the day.",
-    "last_verified": "2026-08-27"
+    "notes": "Real-time Waitwhile queue (No1 Lounges). Operator's own lounge page with a Book this lounge form. Open to all passengers; Priority Pass, DragonPass and Dreamfolks accepted at most locations - check the page for this lounge. Priority Pass, DragonPass and Dreamfolks holders can pre-book against a membership credit instead, and pay the walk-up price only if short of credits on the day.",
+    "last_verified": "2026-10-18"
   },
   {
     "id": "lgw-ts-club-aspire",
